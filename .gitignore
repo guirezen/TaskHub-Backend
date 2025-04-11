@@ -1,0 +1,32 @@
+# Dependências
+node_modules/
+
+# Arquivos de build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Ambiente
+.env
+.env.local
+
+# Cobertura de testes
+coverage/
+
+# Temporários
+.tmp/
+temp/
+uploads/
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
